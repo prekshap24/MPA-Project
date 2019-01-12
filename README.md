@@ -1,1 +1,1 @@
-# MPA-Project
+# Multimedia Processing And Applications Project
